@@ -1,16 +1,44 @@
-### Hi there 👋
+# MD ABDUL ALIM
 
-<!--
-**travelerabdulalim/travelerabdulalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Traveler | Algorithmist | Django Developer | AI & ML Expert
 
-Here are some ideas to get you started:
+Hi there, I'm Md Abdul Alim from Dhaka, Bangladesh. I'm fond of travelling ✈️. I love to share my travel, programming and learning experience through my [YouTube Channel][youtube] and GitHub. 😀  
+Since my university life, I've been solving competitive programming problems in various online judges such as UVa, CodeForces, TopCoder, HackerRank, GeeksforGeeks etc. Till now, I've solved more than 1300 problems in these sites and still I'm solving.  
+Now-a-days, I'm working on Algorithms, Python, Django, AI and ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Here are some of my Skills:
+
+✅ Algorithms: Graph Theory, Number Theory, Game Theory, Dynamic Programming etc.  
+✅ Mathematics: Discrete Mathematics, Probability, Combinatorics etc.  
+✅ Data Structure: Segment Tree, BIT, BST, Trie, Hashing etc.  
+✅ Programming Languages: C, C++, Java, Python, Kotlin, JavaScript.  
+✅ Frameworks: React, Django.  
+✅ AI & ML: TensorFlow, PyTorch.  
+✅ Server: Docker, Linux, Apache.  
+✅ Databases: MySQL, MongoDB.  
+✅ Markup: HTML, CSS.
+
+## Hobbies:
+
+✈️ Travelling
+🌱 Gardening
+📷 Drone Videography
+🕮 Reading Books
+
+## My Social Links:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/travelleralim) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/travelleralim/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/travelleralim/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/travelleralim) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3990929) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/TravellerAlim) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.travelleralim.com/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travelleralim)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=travelleralim&show_icons=true&theme=gruvbox_light)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=travelleralim)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=travelleralim)
+
+![Profile views](https://gpvc.arturio.dev/travelleralim)
+
+<!--All Websites Links are Here:-->
+
+[youtube]: https://www.youtube.com/TravellerAlim
