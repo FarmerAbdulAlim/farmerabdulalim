@@ -1,6 +1,6 @@
 # MD ABDUL ALIM
 
-## Traveler | Django Developer | Android Developer | Algorithms, AI & ML Expert
+## Traveler | Entrepreneur | Full Stack Web & Android Developer | Algorithms, AI & ML Expert
 
 Hi there, I'm Md Abdul Alim from Sirajganj, Bangladesh. I'm fond of travelling ✈️. I love to share my travel, programming and learning experience through my [YouTube Channel][youtube] and GitHub. 😀  
 Since my university life, I've been solving competitive programming problems in various online judges such as UVa, CodeForces, TopCoder, HackerRank, GeeksforGeeks etc. Till now, I've solved more than 1300 problems in these sites and still I'm solving.  
