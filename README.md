@@ -3,7 +3,9 @@
 ## Farmer | Traveler | Django Developer | Android Developer | AI & ML Expert
 
 Hi there, I'm Abdul Alim from Sirajganj, Bangladesh. Farming 🌾 and Travelling ✈️ are my passion and profession. I love to share my farming and travel experience through my [YouTube Channel][youtube].
+
 During my university life, I used to solve competitive programming problems in various online judges such as UVa, CodeForces, TopCoder, HackerRank, GeeksforGeeks etc. Till now, I've solved more than 1300 problems in these sites.
+
 Now-a-days, I spend most of the time in farming, travelling and developing my own projects and idea.
 
 ## Here are some of my Skills:
