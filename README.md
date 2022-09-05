@@ -1,6 +1,6 @@
 # MD ABDUL ALIM
 
-## Farmer | Traveler | Entrepreneur | Django Developer | Android Developer | AI & ML Expert
+## Farmer | Traveler | Entrepreneur | Full Stack Web & Mobile Apps Developer | AI & ML Expert
 
 Hi there, I'm Abdul Alim from Sirajganj, Bangladesh. Farming 🌾 and Travelling ✈️ are my passion and profession. I love to share my farming and travel experience through my [YouTube Channel][youtube].
 
@@ -14,11 +14,11 @@ Now-a-days, I spend most of the time in farming, travelling and developing my ow
 ✅ Mathematics: Discrete Mathematics, Probability, Combinatorics etc.  
 ✅ Data Structure: Segment Tree, BIT, BST, Trie, Hashing etc.  
 ✅ Programming Languages: C, C++, Java, Python, Kotlin, JavaScript.  
-✅ Frameworks: React, Django.  
+✅ Frameworks/Libraries: Bootstrap, jQuery, React, Redux, Django.  
 ✅ AI & ML: TensorFlow, PyTorch.  
 ✅ Server: Docker, Linux, Apache.  
 ✅ Databases: MySQL, MongoDB.  
-✅ Markup: HTML, CSS.
+✅ Markup: HTML5, CSS3.
 
 ## Hobbies:
 
