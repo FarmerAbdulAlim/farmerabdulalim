@@ -1,6 +1,6 @@
 # MD ABDUL ALIM
 
-## Farmer | Traveler | Entrepreneur| Django Developer | Android Developer | AI & ML Expert
+## Farmer | Traveler | Entrepreneur | Django Developer | Android Developer | AI & ML Expert
 
 Hi there, I'm Abdul Alim from Sirajganj, Bangladesh. Farming 🌾 and Travelling ✈️ are my passion and profession. I love to share my farming and travel experience through my [YouTube Channel][youtube].
 
