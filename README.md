@@ -1,6 +1,6 @@
 # ABDUL ALIM
 
-## Agricultural Entrepreneur | Full Stack Web & Mobile Apps Developer | AI & ML Expert
+## Agricultural Entrepreneur | Full Stack Web Developer | AI & ML Expert
 
 Hi there, I'm Abdul Alim from Sirajganj, Bangladesh. Farming 🌾 and Travelling ✈️ are my passion and profession. I love to share my farming and travel experience through my [YouTube Channel][youtube].
 
@@ -29,7 +29,7 @@ Now-a-days, I spend most of the time in farming, travelling and developing my ow
 
 ## My Social Links:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/travelerabdulalim) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/travelerabdulalim/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/travelerabdulalim/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/FarmerAbdulAlim) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3990929) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/travelerabdulalim) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.travelerabdulalim.com/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FarmerAbdulAlim) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/travelerabdulalim/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/travelerabdulalim/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/FarmerAbdulAlim) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3990929) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@TravelerAbdulAlim) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.travelerabdulalim.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travelerabdulalim)](https://github.com/anuraghazra/github-readme-stats)
 
