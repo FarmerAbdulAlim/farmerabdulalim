@@ -1,23 +1,37 @@
 # ABDUL ALIM
 
-## Agricultural Entrepreneur | Full Stack Web Developer | AI & ML Expert
+## Agricultural Entrepreneur | Full Stack Web & Mobile Apps Developer | Algorithms Enthusiastic
 
 Hi there, I'm Abdul Alim from Sirajganj, Bangladesh. Farming 🌾 and Travelling ✈️ are my passion and profession. I love to share my farming and travel experience through my [YouTube Channel][youtube].
 
-During my university life, I used to solve competitive programming problems in various online judges such as UVa, CodeForces, TopCoder, HackerRank, GeeksforGeeks etc. Till now, I've solved more than 1300 problems in these sites.
+During my university life, I used to solve competitive programming problems in various online judges such as UVa, CodeForces, TopCoder, HackerRank, GeeksforGeeks, LeetCode, BeeCrowd, SPOJ etc. Till now, I've solved more than 1300 problems in these sites.
 
 Now-a-days, I spend most of the time in farming, travelling and developing my own projects and ideas.
 
 ## Here are some of my skills as a developer:
 
-✅ Algorithms: Graph Theory, Number Theory, Game Theory, Dynamic Programming etc.  
+✅ Algorithms: Graph Theory, Number Theory, Game Theory, Dynamic Programming, Bitmask DP etc.  
 ✅ Mathematics: Discrete Mathematics, Probability, Combinatorics etc.  
 ✅ Data Structure: Segment Tree, BIT, BST, Trie, Hashing etc.  
-✅ Programming Languages: C, C++, Java, Python, Kotlin, JavaScript.  
-✅ Frameworks/Libraries: Bootstrap, jQuery, React, Redux, Django.  
+✅ Programming Languages: C, C++, Dart, Java, Python, Kotlin, JavaScript.  
+✅ Frameworks/Libraries: Bootstrap, jQuery, React, Redux, Django, Flutter, React Native.  
 ✅ AI & ML: TensorFlow, PyTorch.  
-✅ Databases: MySQL, MongoDB.  
-✅ Markup: HTML5, CSS3.
+✅ Databases: MySQL, NoSQL, MongoDB.  
+✅ Markup: HTML, CSS.
+
+## Problem Solving Usernames/Handles:
+
+|  **Site**   |                           **Username/Handle**                           | **Solved Problems** |
+| :---------: | :---------------------------------------------------------------------: | :-----------------: |
+| CodeForces  | [TravellerAbdulAlim](https://codeforces.com/profile/TravellerAbdulAlim) |         165         |
+|  TopCoder   |    [farmerabdulalim](https://profiles.topcoder.com/farmerabdulalim)     |         48          |
+|     UVA     |       [FarmerAbdulAlim](https://uhunt.onlinejudge.org/id/155497)        |         449         |
+|    SPOJ     |     [farmerabdulalim](https://www.spoj.com/users/farmerabdulalim/)      |         60          |
+|  BeeCrowd   | [FarmerAbdulAlim](https://www.beecrowd.com.br/judge/en/profile/832057)  |         248         |
+|  LeetCode   |        [FarmerAbdulAlim](https://leetcode.com/FarmerAbdulAlim/)         |         159         |
+|  CodeChef   |        [abdulalimbd](https://www.codechef.com/users/abdulalimbd)        |         65          |
+| HackerRank  |      [FarmerAbdulAlim](https://www.hackerrank.com/FarmerAbdulAlim)      |         265         |
+| HackerEarth |     [FarmerAbdulAlim](https://www.hackerearth.com/@FarmerAbdulAlim)     |         120         |
 
 ## Hobbies:
 
