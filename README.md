@@ -1,6 +1,6 @@
 # ABDUL ALIM
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=FarmerAbdulAlim&color=blueviolet)
 
 ## Agricultural Entrepreneur | Full Stack Web & Mobile Apps Developer | AI & ML Enthusiastic
 
