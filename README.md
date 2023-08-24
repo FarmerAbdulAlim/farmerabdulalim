@@ -1,6 +1,8 @@
 # ABDUL ALIM
 
-## Agricultural Entrepreneur | Full Stack Web & Mobile Apps Developer | Algorithms Enthusiastic
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
+## Agricultural Entrepreneur | Full Stack Web & Mobile Apps Developer | AI & ML Enthusiastic
 
 Hi there, I'm Abdul Alim from Sirajganj, Bangladesh. Farming 🌾 and Travelling ✈️ are my passion and profession. I love to share my farming and travel experience through my [YouTube Channel][youtube].
 
@@ -49,12 +51,12 @@ Now-a-days, I spend most of the time in farming, travelling and developing my ow
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farmerabdulalim&show_icons=true&theme=gruvbox_light)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=farmerabdulalim)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FarmerAbdulAlim&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=farmerabdulalim)
 
-![Profile views](https://gpvc.arturio.dev/farmerabdulalim)
+[1. My YouTube Channel on Travelling](https://www.youtube.com/@TravelerAbdulAlim)
 
-<!--All Websites Links are Here:-->
+[2. My YouTube Channel on Programming Tutorials in Bangla](https://www.youtube.com/@LearnWithAbdulAlim)
 
-[youtube]: https://www.youtube.com/@TravelerAbdulAlim
+[3. My YouTube Channel on Programming Tutorials in English](https://www.youtube.com/@AbdulAlim-Bangladesh)
