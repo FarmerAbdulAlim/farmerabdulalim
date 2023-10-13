@@ -2,13 +2,17 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FarmerAbdulAlim&color=blueviolet)
 
-## Agricultural Entrepreneur | Full Stack Web & Mobile Apps Developer | AI & ML Enthusiastic
+## Agricultural Entrepreneur | Islamic Content Creator | Full Stack Web & Mobile Apps Developer | AI & ML Enthusiastic
 
-Hi there, I'm Abdul Alim from Sirajganj, Bangladesh. Farming 🌾 and Travelling ✈️ are my passion and profession. I love to share my farming and travel experience through my [YouTube Channel][youtube].
+Assalamu-alaikum, I'm Abdul Alim from Sirajganj, Bangladesh. Farming 🌾 and Travelling ✈️ are my passion and profession. I love to share my farming and travel experience through my [YouTube Channel](https://www.youtube.com/@TravelerAbdulAlim).
 
 During my university life, I used to solve competitive programming problems in various online judges such as UVa, CodeForces, TopCoder, HackerRank, GeeksforGeeks, LeetCode, BeeCrowd, SPOJ etc. Till now, I've solved more than 1300 problems in these sites.
 
 Now-a-days, I spend most of the time in farming, travelling and developing my own projects and ideas.
+
+## My Ultimate Goal in My Life
+
+The one and ultimate goal of my life is to please Allah (SWT).
 
 ## Here are some of my skills as a developer:
 
@@ -16,7 +20,7 @@ Now-a-days, I spend most of the time in farming, travelling and developing my ow
 ✅ Mathematics: Discrete Mathematics, Probability, Combinatorics etc.  
 ✅ Data Structure: Segment Tree, BIT, BST, Trie, Hashing etc.  
 ✅ Programming Languages: C, C++, Dart, Java, Python, Kotlin, JavaScript.  
-✅ Frameworks/Libraries: Bootstrap, jQuery, React, Redux, Django, Flutter, React Native.  
+✅ Frameworks/Libraries: Bootstrap, jQuery, React, Redux, Django, Flutter, React Native, Laravel, Ionic.  
 ✅ AI & ML: TensorFlow, PyTorch.  
 ✅ Databases: MySQL, NoSQL, MongoDB.  
 ✅ Markup: HTML, CSS.
@@ -42,6 +46,7 @@ Now-a-days, I spend most of the time in farming, travelling and developing my ow
 ✈️ Travelling <br>
 📷 Drone Videography <br>
 🕮 Reading Books <br>
+🍳 Cooking <br>
 
 ## My Social Links:
 
