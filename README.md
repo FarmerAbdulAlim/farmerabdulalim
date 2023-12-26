@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FarmerAbdulAlim&color=blueviolet)
 
-## Agricultural Entrepreneur | Islamic Content Creator | Full Stack Web & Mobile Apps Developer | AI & ML Enthusiastic
+## Agripreneur | Full Stack Web & Mobile Apps Developer | AI & ML Enthusiastic
 
 Assalamu-alaikum, I'm Abdul Alim from Sirajganj, Bangladesh. Farming 🌾 and Travelling ✈️ are my passion and profession. I love to share my farming and travel experience through my [YouTube Channel](https://www.youtube.com/@TravelerAbdulAlim).
 
